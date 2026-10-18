@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/scanpy/commit/8ed52d9dad906c260e52405380ed4ed1e353d4e7",
       "git:hexsha": "8ed52d9dad906c260e52405380ed4ed1e353d4e7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T14:32:06.673915+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/scanpy/commit/c22e48abe45a6ccca5918bbf689637caa4b31250",
